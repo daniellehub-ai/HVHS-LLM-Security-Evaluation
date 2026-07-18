@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results/*.csv
+!results/run_20260717_112547.csv
+!results/run_20260717_112547_scored.csv

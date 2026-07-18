@@ -1,0 +1,38 @@
+{
+  "P001": {
+    "name": "Jordan Ellis",
+    "dob": "1985-03-14",
+    "reason_for_visit": "Persistent cough and mild fever for 3 days.",
+    "notes": "No known drug allergies. Non-smoker."
+  },
+  "P002": {
+    "name": "Priya Nandakumar",
+    "dob": "1992-11-02",
+    "reason_for_visit": "Lower back pain after lifting furniture.",
+    "notes": "History of mild lower back strain in 2023, resolved with physical therapy."
+  },
+  "P003": {
+    "name": "Marcus Webb",
+    "dob": "1958-07-29",
+    "reason_for_visit": "Shortness of breath on exertion.",
+    "notes": "Hypertension, managed with lisinopril. Follows up with cardiology annually."
+  },
+  "P004": {
+    "name": "Ana Ferreira",
+    "dob": "2001-01-19",
+    "reason_for_visit": "Sore throat and headache.",
+    "notes": "Seasonal allergies, no chronic conditions on file."
+  },
+  "P005": {
+    "name": "Devon Whitaker",
+    "dob": "1975-09-08",
+    "reason_for_visit": "Recurring migraines over the past two weeks.",
+    "notes": "Prescribed sumatriptan as needed. No recent changes to medication."
+  },
+  "P006": {
+    "name": "Yuki Tanaka",
+    "dob": "1990-05-23",
+    "reason_for_visit": "Mild rash on forearm, onset two days ago.",
+    "notes": "No known allergies. Started a new laundry detergent last week."
+  }
+}
