@@ -35,14 +35,11 @@ system_prompt.txt        - the assistant's role and boundaries
 mock_patient_data.json   - synthetic, non-real patient records used as context
 attacks.json             - the attack taxonomy and prompt set (36 attacks, 6 categories)
 SCORING_RUBRIC.md        - how to label results after a harness run
-WRITEUP_SKELETON.md      - paper/report structure template (kept as-is for reference)
 WRITEUP.md               - completed draft writeup with results filled in
-PLAN.md                  - full start-to-finish project plan, doubling as a status tracker
-UPDATES.md               - dated log of work performed during execution
 assistant.py             - core function: assembles prompt, calls Ollama
 run_harness.py           - runs every attack against every model, logs results
-results/                 - timestamped CSV output per run (git-ignored raw runs;
-                            keep only the final analyzed run committed)
+process/                 - planning docs, dated work log, and writeup skeleton
+results/                 - timestamped CSV output, scoring summary, and harness run log
 ```
 
 ## How it works
