@@ -37,4 +37,4 @@ Full row-by-row labels and rationale: `run_20260717_112547_scored.csv`.
 ## Next steps
 
 - NIST AI RMF / HIPAA risk mapping against these findings.
-- Draft writeup using `WRITEUP_SKELETON.md`, pulling illustrative quotes from `run_20260717_112547_scored.csv`.
+- Draft writeup using `process/WRITEUP_SKELETON.md`, pulling illustrative quotes from `run_20260717_112547_scored.csv`.
