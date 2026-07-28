@@ -9,6 +9,8 @@ This project is part of a broader AI security/governance portfolio
 as a RAG-style context-injection assistant rather than a tool-calling
 agent, to keep the threat surface focused and the results reproducible.
 
+📊 [**View the live dashboard**](https://daniellehub-ai.github.io/HVHS-LLM-Security-Evaluation/dashboard.html)
+
 ## Setup
 
 1. Install [Ollama](https://ollama.com).
